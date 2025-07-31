@@ -25,6 +25,9 @@ cd SOS-TESTNET
 ```
 npm install
 ```
+```
+nano .env
+```
 ~ Run the scripts 
 ```
 node lim.js
