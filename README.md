@@ -12,7 +12,7 @@ Register Xos Testnet : https://X.ink/6CSWQS
 
 🔘 Claim Xos Faucet : https://faucet.x.ink/
 
-🔘 Check in and Interaction On Xos Testnet (  swap and send token to your friends ).
+🔘 Check in and Interaction On Xos Testnet (  swap and send tokens to your friends ).
 
 ## INSTALLATION
 
