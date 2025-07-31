@@ -6,7 +6,7 @@ Like many other crypto projects, XOS has its own **testnet**. A testnet is a tri
 
 Register Xos Testnet : https://X.ink/6CSWQS
 
-🔘 Connect web3 wallet
+🔘 Connect web3 wallet use okx web3 wallet or Metamask.
 
 🔘 Connect social media ( twiter & Discord ).
 
