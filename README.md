@@ -1,3 +1,5 @@
+![alt text](https://github.com/19seniman/SOS-TESTNET/blob/main/Picture/xos.png?raw=true)
+
 ## DESCRIPTION 
 
 XOS is a high-performance layer-2 solution built on the **Solana** blockchain. Its goal is to improve the scalability, speed, and cost efficiency of the Solana ecosystem, especially for applications like **GameFi, DeFi, and Web3**.
