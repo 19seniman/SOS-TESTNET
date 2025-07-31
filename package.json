@@ -1,0 +1,15 @@
+{
+  "name": "SOS TESTNTE",
+  "version": "1.0.0",
+  "description": "automate transaction on Xos testnet",
+  "main": "lim.js",
+  "scripts": {
+    "start/run": "node lim.js"
+  },
+  "dependencies": {
+    "ethers": "^6.13.2",
+    "dotenv": "^16.4.5"
+  },
+  "author": "19Seniman From Insider",
+  "license": "ISC"
+}
