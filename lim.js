@@ -55,7 +55,7 @@ const config = {
     AUTO_SWAP_CONFIG: {
         XOS_TO_USDC_AMOUNT: "0.001", // Jumlah XOS yang akan di-swap
         USDC_TO_XOS_AMOUNT: "0.05", // Jumlah USDC yang akan di-swap
-        TRANSACTIONS_PER_WALLET: 2, // Jumlah transaksi per dompet untuk setiap siklus
+        TRANSACTIONS_PER_WALLET: 19, // Jumlah transaksi per dompet untuk setiap siklus
     }
 };
 
