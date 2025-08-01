@@ -46,3 +46,5 @@ Usdt Or USdc
 `0xf01fb9a6855f175d3f3e28e00fa617009c38ef59`
 
 Send your proof to telegram @VirtualAssistant19_bot select menu /script_access_on_github
+
+![alt text](https://github.com/19seniman/SOS-TESTNET/blob/main/Picture/soks.png?raw=true)
