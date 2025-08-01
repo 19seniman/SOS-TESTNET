@@ -38,9 +38,8 @@ node lim.js
 
 Hi !! 
 How Are you Today??
-
-
-## Donate For Watermelon 🍉
+if you want to access the script please donate 1.6 usdt to evm wallet and send proof via telegram @VirtualAssistant19_bot
+Donate For Watermelon 🍉
 
 Usdt Or USdc
 
